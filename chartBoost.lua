@@ -68,7 +68,7 @@ function scene:create( event )
     --------------------------------------------------------------------------
 
     -- Corona Ads API Key
-    local apiKey = "6aa84da4-72e8-40ae-9ed3-e45baefd887d"
+    local apiKey = "5223c2c3-cf81-4c43-ae41-2d4ed16552bc"
 
     print("Using "..apiKey)
 
